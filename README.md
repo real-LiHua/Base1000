@@ -41,6 +41,3 @@ print(encoded)
 decoded = list(Base1000.decode(encoded))
 print(decoded)
 ```
-
-## 许可证
-本项目采用 MIT 许可证，详情请查看 LICENSE 文件。
